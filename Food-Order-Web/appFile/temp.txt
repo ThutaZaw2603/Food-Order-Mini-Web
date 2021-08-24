@@ -1,0 +1,169 @@
+ <!--Chocolate milkshake -->
+            <div class="cardDiv  col-6 col-md-3">
+                
+           
+                    
+                <div class="card shadow-sm rounded-lg">
+                    
+                    <img src="../img/juice4.jpg" alt="" class="card-img-top img-fluid rounded">
+                   
+                    <div class="card-body p-0 cardBody">
+                        <div class="card-title">
+                            <p class="text-center mb-0 mt-1 itemName " id="">
+                                Choco Milkshake
+                            </p><hr class="m-0">
+                        </div>
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="text-center mb-0 price" id="">$5</p>       
+                            </div>
+                            <div class="col-6">
+                                <div class=" orderBtnDiv">
+                                    <button class="btn mx-auto text-center orderBtn shadow">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                            </div>
+                            </div>
+                        </div>      
+                    </div> 
+                    <div class="hoverEffectofCard">
+                        <h5>Milk Coffee</h5><hr class="bg-light">
+                        <p>
+                           The creamy coffee that will make your day happy.
+                        </p>
+                        <hr class="bg-light">
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="text-left" id="">$2</p>
+                            </div>
+                            <div class="col-6">
+                                 <p class="text-center" id="">10min</p>
+                            </div>
+                           
+                        </div>
+                    </div>
+
+                   
+                    <a class="card-block stretched-link text-decoration-none" href="javascript:;"></a><!--!-->
+                </div>
+                <div class="timer">
+                    <p>15min</p>
+                </div>
+            </div>
+            
+           
+            <!--
+            <div class="cardDiv  col-12 col-md-4" >
+                <div class="card mostPopular rounded-lg" >
+                    <img src="../img/pizza2.jpg" alt="" class="card-img-top img-fluid rounded">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h3>Coffee</h3>
+                            <h4>$ 2</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+            
+            <!--spicy noodle-->
+            <div class="cardDiv col-6 col-md-3">
+                
+                <div class="card shadow-sm rounded-lg">
+                    
+                    <img src="../img/noodle2.jpg" alt="" class="card-img-top img-fluid rounded">
+                   
+                    <div class="card-body p-0 cardBody">
+                        <div class="card-title">
+                            <p class="text-center mb-0 mt-1 itemName " id="">
+                                Spicy Noodle
+                            </p><!--!--> <hr class="m-0">
+                        </div>
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="text-center mb-0 price" id="">$6</p>       
+                            </div>
+                            <div class="col-6">
+                                <div class=" orderBtnDiv">
+                                    <button class="btn mx-auto text-center orderBtn shadow">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                            </div>
+                            </div>
+                        </div>      
+                    </div> 
+
+                    <div class="hoverEffectofCard">
+                        <h5>Spicy Noodle</h5><hr class="bg-light">
+                        <p>
+                         The most korea spicy and meet your fresh
+                        </p>
+                        <hr class="bg-light">
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="text-left">$6</p>
+                            </div>
+                            <div class="col-6">
+                                 <p class="text-center" >20min</p>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="timer" id="">
+                    <p>20min</p>
+                </div>
+            </div>
+
+           
+
+            <div class="cardDiv col-6 col-md-3">
+                
+                <div class="card shadow-sm rounded-lg">
+                    
+                    <img src="../img/juice4.jpg" alt="" class="card-img-top img-fluid rounded">
+                   
+                    <div class="card-body p-0 cardBody">
+                        <div class="card-title">
+                            <p class="text-center mb-0 mt-1 itemName " id="">
+                                Choco Milkshake
+                            </p><!--!--> <hr class="m-0">
+                        </div>
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="text-center mb-0 price" id="">$5</p>       
+                            </div>
+                            <div class="col-6">
+                                <div class=" orderBtnDiv">
+                                    <button class="btn mx-auto text-center orderBtn shadow">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                            </div>
+                            </div>
+                        </div>      
+                    </div> 
+
+                    <div class="hoverEffectofCard">
+                        <h5>Choco coffee</h5><hr class="bg-light">
+                        <p>
+                         Full chocolate and find your happiness.
+                        </p>
+                        <hr class="bg-light">
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="text-left">$5</p>
+                            </div>
+                            <div class="col-6">
+                                 <p class="text-center" id="">15min</p>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="timer">
+                    <p>15min</p>
+                </div>
+            </div>
+
+
+        </div>           
+    </div>
